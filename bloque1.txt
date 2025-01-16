@@ -1,0 +1,4 @@
+Bloque 1:
+(hash = 335dd140c5ee49610a50bcf46ac4e633d3bef5d102cc5730307bd67dd5085de7)
+Alicia le envia 3 monedas a Bob (firma Alicia)
+(firma Admin)

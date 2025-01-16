@@ -1,0 +1,4 @@
+Bloque 0:
+(hash = 000000000000000)
+Se crean 10 monedas para Alicia
+(firma Admin)
